@@ -112,7 +112,11 @@ Build an API inside the `api` folder with endpoints for:
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain the difference between Relational Databases and SQL.
+// SQL have table-based data structure, with strict predefined schema required. database can be document based,graph dadabase,key-value pairs, or wide-column stores. 
 2. Why do tables need a Primary Key?
+ // primary key of one table may also help to identify records in other tables, and be part of the second table.
 3. What is the name given to a table column that references the Primary Key on another table?
+ // foreighn key
 4. What do we need in order to have a _many to many_ relationship between two tables?
+// a junction or appointment table
 
